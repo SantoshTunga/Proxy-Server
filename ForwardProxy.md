@@ -29,7 +29,8 @@ Some forward proxy servers can be configured to distribute client requests acros
 ## **Authentication:** 
 Forward proxies can require users to authenticate themselves before allowing access to the internet. This adds an additional layer of security and helps in tracking user activities.
 
-## **SSL/TLS Inspection:** Some forward proxies are capable of decrypting and inspecting SSL/TLS-encrypted traffic, which can be useful for security and compliance purposes. This allows the proxy to inspect the content of encrypted connections.
+## **SSL/TLS Inspection:**
+Some forward proxies are capable of decrypting and inspecting SSL/TLS-encrypted traffic, which can be useful for security and compliance purposes. This allows the proxy to inspect the content of encrypted connections.
 
 It's important to note that while forward proxies offer anonymity and privacy, they are not completely secure, and their effectiveness depends on various factors, including how well they are configured and maintained. Additionally, some websites may employ techniques to detect and block traffic coming from proxy servers., also known simply as a "proxy server" or "web proxy," is a server that sits between client devices (such as computers or smartphones) and the internet. It acts as an intermediary for client requests to external servers or resources on the internet.
 10. **SSL/TLS Inspection:** Some forward proxies are capable of decrypting and inspecting SSL/TLS-encrypted traffic, which can be useful for security and compliance purposes. This allows the proxy to inspect the content of encrypted connections.

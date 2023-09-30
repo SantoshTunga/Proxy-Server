@@ -47,3 +47,5 @@ By distributing requests among multiple backend servers and providing failover c
 
 Reverse proxies are commonly used in enterprise environments, data centers, and web hosting scenarios to improve security, scalability, and performance for web applications and services. 
 Popular reverse proxy software includes Nginx, Apache HTTP Server, HAProxy, and Microsoft's Application Request Routing (ARR).
+
+### Note : Api Gateway can act as a reverse proxy

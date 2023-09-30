@@ -36,3 +36,4 @@ Anonymous proxies hide the client's IP address but do not modify the request hea
 Elite proxies offer the highest level of anonymity by not revealing any information about the client or the proxy server in the request headers.
 Proxy servers can be used for legitimate purposes, such as improving network performance and security, but they can also be used for malicious activities, such as bypassing content restrictions or hiding the true source of traffic.
 It's important to use proxy servers responsibly and in compliance with applicable laws and policies.
+

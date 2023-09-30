@@ -1,6 +1,8 @@
 # Forward proxy
 A forward proxy, also known simply as a "proxy server" or "web proxy," is a server that sits between client devices (such as computers or smartphones) and the internet. 
-It acts as an intermediary for client requests to external servers or resources on the internet. Here's more information about forward proxies:
+It acts as an intermediary for client requests to external servers or resources on the internet.
+Overall, forward proxies can be a valuable tool for improving security, privacy, and performance for clients.
+Here's more information about forward proxies:
 
 ## **Client-Side Proxy:**
 A forward proxy is typically configured on the client side, meaning that individual client devices or applications are configured to send their requests to the proxy server. This is often done by specifying the proxy server's IP address and port in the client's network settings or application configuration.

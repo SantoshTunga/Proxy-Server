@@ -21,9 +21,9 @@ Here is a table that summarizes the key differences between forward proxies and 
 ## Typical use cases
 ### Forward proxy 
 - Bypass geo-restrictions, hide IP address from websites,                      
-cache frequently accessed websites.
+  cache frequently accessed websites.
 ### Reverse proxy
--Load balancing, SSL termination, caching, security
+- Load balancing, SSL termination, caching, security
 
 Forward proxy: A company might use a forward proxy to block employees from accessing certain websites, such as social media websites, during work hours.
 Reverse proxy: A website might use a reverse proxy to distribute traffic across multiple servers, improve security, and cache frequently accessed resources.

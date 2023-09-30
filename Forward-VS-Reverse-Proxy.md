@@ -6,11 +6,24 @@ Reverse proxies are typically used to improve security, performance, and scalabi
 
 Here is a table that summarizes the key differences between forward proxies and reverse proxies:
 
-## Feature - 	              - Forward proxy   	                                                            - Reverse proxy
-### Direction of traffic -    flow	Client to internet	- Internet to server
-### Purpose	             -    Improve security, privacy, and performance for clients	                      Improve security, performance, and scalability for servers
-### Typical use cases	   -    Bypass geo-restrictions, hide IP address from websites,                       Load balancing, SSL termination, caching, security
-                              cache frequently accessed websites
+## Feature 
+## Direction of traffic
+### Forward proxy   
+- flow	Client to internet	
+### Reverse proxy
+- Internet to server
+  
+## Purpose
+### Forward proxy   
+- Improve security, privacy, and performance for clients
+### Reverse proxy 
+- Improve security, performance, and scalability for servers
+## Typical use cases
+### Forward proxy 
+- Bypass geo-restrictions, hide IP address from websites,                      
+cache frequently accessed websites.
+### Reverse proxy
+-Load balancing, SSL termination, caching, security
 
 Forward proxy: A company might use a forward proxy to block employees from accessing certain websites, such as social media websites, during work hours.
 Reverse proxy: A website might use a reverse proxy to distribute traffic across multiple servers, improve security, and cache frequently accessed resources.
